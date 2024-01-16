@@ -1,3 +1,21 @@
+![Captura de Tela (40)](https://github.com/PauloAquarius0299/travell-brazil-website/assets/114706743/6f9ac232-a16a-4a1a-90be-f4923a840ddd)
+
+# 🧳 TravelBrasil website 
+Creiei uma interface intuitiva e interativa sobre os principais destinos de viagens do Brasil, usando React, Sass e CSS
+## ✈️ Introdução
+A interface ecomerce de sobre agencia de viagem oferece rapida informação sobra os melhores destinos de viagem do Brasil, preço, atratividades e registros. A interface contém interatividade com imagens e palavras animadas se movendo, estilização com Scss para deixa-lo agradavel e video. 
+### 💡 Pre-Requisitos 
+Intalação do React, estilização com Scss e react-icons
+### 🛠️ Ferramentas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🗺️ Link 
+![https://viagem-brasil-website.netlify.app/]
+![Captura de Tela (41)](https://github.com/PauloAquarius0299/travell-brazil-website/assets/114706743/53073ff9-dd61-4bfc-ad6c-867f876fdae0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
