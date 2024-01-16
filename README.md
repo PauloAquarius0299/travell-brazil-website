@@ -1,4 +1,4 @@
-![Captura de Tela (40)](https://github.com/PauloAquarius0299/travell-brazil-website/assets/114706743/6f9ac232-a16a-4a1a-90be-f4923a840ddd)
+![Captura de Tela (42)](https://github.com/PauloAquarius0299/travell-brazil-website/assets/114706743/4ed91621-366b-40b5-8c69-fb77c190331d)
 
 # 🧳 TravelBrasil website 
 Creiei uma interface intuitiva e interativa sobre os principais destinos de viagens do Brasil, usando React, Sass e CSS
